@@ -573,7 +573,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Summer Collection Premium Picks</h1>
-                <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <p>Discover the latest trends in fashion, technology and accessories curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
@@ -921,7 +921,7 @@
             const btn = document.querySelector(`.add-btn[data-id="${productId}"]`);
             if (btn) {
                 const original = btn.innerHTML;
-                btn.innerHTML = 'Added ✓';
+                btn.innerHTML = 'Added';
                 btn.disabled = true;
                 setTimeout(() => {
                     btn.innerHTML = original;
