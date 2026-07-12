@@ -572,8 +572,8 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Github to Jenkins to Nexus to Tomcat</h1>
-                <p>Pandi pandi boddugaa, Buradalone muddugaa. Thindi tini santhoshanga, Thiruguthundi aanandanga.</p>
+                <h1>Github to Jenkins to Tomcat</h1>
+                <p>This is an automated application deployment from Github to Tomcat server.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
