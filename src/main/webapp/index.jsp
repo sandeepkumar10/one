@@ -572,7 +572,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>GITHUB to JENKINS to TOMCAT</h1>
+                <h1>Github to JENKINS to TOMCAT</h1>
                 <p>This is an automated application deployment from Github to Tomcat server.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
