@@ -466,7 +466,7 @@
     <!-- Hero -->
     <section class="hero">
       <div class="hero-text">
-        <h1>Fresh styles,<br>simpler shopping</h1>
+        <h1>Fresh drops,<br>simpler shopping</h1>
         <p>Clean design meets smooth experience. Discover curated products.</p>
         <div class="btn-group">
           <button class="btn btn-primary" id="shopNowBtn"><i class="fas fa-bolt"></i> Shop now</button>
