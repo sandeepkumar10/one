@@ -727,7 +727,7 @@
     <!-- Deal countdown -->
     <div id="deals" class="deal-card">
       <div class="deal-image">
-        <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80" alt="MacBook Air M2" onerror="this.style.display='none'; this.parentElement.innerHTML='<i class=\"fas fa-laptop\" style=\"font-size:6rem;color:rgba(255,255,255,0.5);\"></i>'" />
+        <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80" alt="MacBook Air M2" />
       </div>
       <div class="deal-content">
         <span style="background:#f59e0b;color:#064e3b;padding:6px 14px;border-radius:20px;font-weight:700;font-size:0.9rem;">⚡ FLASH SALE</span>
@@ -821,7 +821,7 @@
           reviews:214, 
           category:'accessories', 
           badge:'-13%',
-          img:'https://images.unsplash.com/photo-1546868871-af0de0ae72be?auto=format&fit=crop&w=600&q=80' 
+          img:'https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=600&q=80' 
         },
         { 
           id:4, 
@@ -848,7 +848,7 @@
           rating:4.5, 
           reviews:189, 
           category:'accessories',
-          img:'https://images.unsplash.com/photo-1523293182080-47729a795f81?auto=format&fit=crop&w=600&q=80' 
+          img:'https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=600&q=80' 
         },
         { 
           id:7, 
